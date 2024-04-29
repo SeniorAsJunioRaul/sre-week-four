@@ -1,7 +1,6 @@
 https://github.com/SeniorAsJunioRaul/sre-week-four/tree/main
-LIstado de Comandos usados
+#### LIstado de Comandos usados.
 @SeniorAsJunioRaul ➜ /workspaces/sre-week-four (main) $ history
-    1  minikube
     2  minikube start
     3  kubectl create ns sre
     4  kubectl get all -n sre
