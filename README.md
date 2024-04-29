@@ -1,5 +1,5 @@
 https://github.com/SeniorAsJunioRaul/sre-week-four/tree/main
-
+LIstado de Comandos usados
 @SeniorAsJunioRaul ➜ /workspaces/sre-week-four (main) $ history
     1  minikube
     2  minikube start
@@ -11,7 +11,7 @@ https://github.com/SeniorAsJunioRaul/sre-week-four/tree/main
     8  helm history upcoomerce -n sre
     9  helm history upcommerce -n sre
    10  kubectl get all -n sre
-   12  clear
+
    13  cd templates
    14  pwd
    15  ls -la
